@@ -1,0 +1,2 @@
+# Pharma-MIS-Dashboard
+Interactive Pharma MIS Dashboard built using Power BI, Power Query, and DAX for sales, regional, and representative performance analysis.
