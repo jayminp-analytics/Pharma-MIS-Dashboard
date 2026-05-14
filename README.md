@@ -18,7 +18,7 @@ The dashboard is designed to support **data-driven business decisions** through 
 # 🎥 Dashboard Walkthrough Video
 
 ▶️ [Watch Interactive Dashboard Demo](https://youtu.be/V_fluo999rY)
-
+![Pharma MIS Overview](01_Overview.png)
 ---
 
 # 🎯 Business Objective
